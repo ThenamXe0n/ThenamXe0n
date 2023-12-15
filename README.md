@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm a Front-end developer from India 🇮🇳 Nameet</h1>
+<h1 align="center">Hi 👋, I'm a Front-end developer from India</h1>
 - 🔭 I’m currently working on **MEAN - Ecommerce Website**
 - 🌱 I’m currently learning **Python**
 - 💬 Ask me about **React , JavaScript **
