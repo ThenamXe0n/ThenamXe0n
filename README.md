@@ -1,11 +1,11 @@
-<h1 align="center">namaste!🙏 Nameet Mandwal</h1>
+<h1 align="center">namaste devs! 🙏 <br> I'm Nameet Mandwal</h1>
 <h3 align="center">A passionate full stack developer from India .</h3>
 
 - 🔭 I’m currently working on **Ai based itinerary travel planner**
 
 - 🌱 I’m currently learning **more about devops and cybersecurity**
 
-- 👨‍💻 All of my projects are available at [portfolio is not live now🥱](portfolio is not live now🥱)
+- 👨‍💻 All of my projects are available at [portfolio is not live now🥱]
 
 - 💬 Ask me about **web development,react , javascript ,express, mongobd, node js**
 
